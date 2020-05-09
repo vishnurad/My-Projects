@@ -25,7 +25,7 @@ float xtime; // to store the value of 'Timeperiod'
 //which is mapped to a lower range
 
 /* Main Setup Code*/
-
+void ISR();
 void setup() 
 {
   pinMode(ledPin, OUTPUT); // this is set as the output pin(8)
@@ -73,7 +73,7 @@ void ISR()
 }
 if (flag ==1 ) // debounce checking
 {
- Serial.print("Current Flicker Freqency = ");
+ Serial.print("Current Flicker Freqency in Hz = ");
  Serial.println(frequency); // print current frequency of green LED
 }
 }

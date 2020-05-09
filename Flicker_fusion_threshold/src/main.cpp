@@ -46,15 +46,12 @@ void loop()
  // to a lower range
 if (currentMillis - previousMillis >xtime)
 {
- previousMillis = currentMillis; // save the last time
- // you blinked the LED
- // if the LED is off turn it on and vice-versa:
+ previousMillis = currentMillis; //previous blink state is recorded.
  if (ledState == LOW)
  ledState = HIGH;
  else
  ledState = LOW;
  digitalWrite(ledPin, ledState); // set the LED with the ledState
- // of the variable
  frequency = (500/xtime); // store the value of led blink freqency
  //frequency mutiplied to 500 times
 }

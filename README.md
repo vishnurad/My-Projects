@@ -47,5 +47,8 @@ If there is no voltage drop we would then need 3.3/.010=330 ohms as safety stand
 
 ## Schematic and circuit design.
 
-![](https://1drv.ms/u/s!AmOY6Qw7bVfMk3Ui0xkwaYiqKsqQ?e=bzngAH)
+https://m1ri3q.am.files.1drv.com/y4mtzPsF07hMhAmlS3EKoYdwgLLL8zcVzxRkmScu43hZDfPfQkX4wOuisbEwDHgamJKoLQuor8toZ71mbONsA-bvNnRO8eF1wAsbqyixbHpJa3wksr6q6a_Ill4lsozNmfvaF6gIb3MPYbUEfpP9qEDuHgbhJkh__aXV8lwDOeS8qkukSqFJYQjQwShmTK44QIWhxXeOd32Dkr2FZLKfN__uw?width=1891&height=1004&cropmode=none
 
+
+
+https://pfri3q.am.files.1drv.com/y4mhUQ16xBAQhGQy2-5AQoM5vzUccUZUAxl6Ft0YEYt9oo8d-7WozNmhoCIUGSDqEw-b5rApodfa9M2nXgnoRZyeEijE5zfXJXrpM86w4CjXSE1G_59JT7lok4Ke9BwGpkmQw4X-7zlPE6_CV35OF2ilIhw_q-jPwIM4ouCGSiudB928bR6MWUQpGiQ22H-vJJt7kOchkXbh2VTIuerJMQYqw?width=1912&height=944&cropmode=none

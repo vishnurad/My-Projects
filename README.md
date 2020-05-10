@@ -45,5 +45,7 @@ To protect LED and limit the max current to 10mA is selected
 which gives 120ohms
 If there is no voltage drop we would then need 3.3/.010=330 ohms as safety standards.
 
+## Schematic and circuit design.
 
-## Schematic
+![](https://1drv.ms/u/s!AmOY6Qw7bVfMk3Ui0xkwaYiqKsqQ?e=bzngAH)
+

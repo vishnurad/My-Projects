@@ -30,9 +30,13 @@ Its Arduino IDE compatible and I have used VSCode to code the program to the Tee
 ## Hardware Details
 
 **Teensy 3.2** microcontroller
+
 A **5mm** Green **LED**
+
 A **10 kilo-ohm** linear **potentiometer** (B10K)
+
 A **330 ohm** resistor for **pull up**
+
 Some connecting wires and breadboard.
 
 Supplier(for potentiometer, LED and resistor)
@@ -41,11 +45,16 @@ https://www.jaycar.co.nz/
 
 **Calculations for hardware:**
 Voltage Drop across led =Vdrop=1.8V(assuming normal standard)
+
 Teensy supply voltage =Vin= 3.3V
+
 LED max curennt pin limit=Imax= 25mA (20~25mA)
+
 R=(Vin-Vdrop)/Imax= 48ohms.
+
 To protect LED and limit the max current to 10mA is selected
 which gives 120ohms
+
 If there is no voltage drop we would then need 3.3/.010=330 ohms as safety standards.
 
 ## Schematic and circuit design.

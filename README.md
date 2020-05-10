@@ -108,10 +108,15 @@ Available on Github:
 
 Human eye flicker fusion threshold was tested sucessfully using the system designed.
 Subject under test was me and my finding is that I am unable to detect any flicker above the 55Hz range.
+
 This project has allowed me to explore:
+
 **Teensy 3.2** microcontroller and its terminologies.
+
 **Arduino IDE** and coding library
+
 Setting up **Visual Studio Code** and **version control system**(Git) for my projects.
+
 Using **markdown** language editors(**Typora** and **StackEdit**)
 
 

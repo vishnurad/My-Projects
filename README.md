@@ -133,6 +133,10 @@ Setting up **Visual Studio Code** and **version control system**(Git) for my pro
 
 Using **markdown** language editors(**Typora** and **StackEdit**)
 
+Limitations of my project are:
+
+Serial plotter is sometimes innacurate.
+
 
 
 

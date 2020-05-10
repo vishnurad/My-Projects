@@ -35,9 +35,9 @@ A **10 kilo-ohm** linear **potentiometer** (B10K)
 A **330 ohm** resistor for **pull up**
 Some connecting wires and breadboard.
 
-Supplier:Jaycar Electronics New Zealand | Components, connectors, switches, power, and more
+Supplier(for potentiometer, LED and resistor)
+:Jaycar Electronics New Zealand | Components, connectors, switches, power, and more
 https://www.jaycar.co.nz/
-
 
 **Calculations for hardware:**
 Voltage Drop across led =Vdrop=1.8V(assuming normal standard)

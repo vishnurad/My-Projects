@@ -46,6 +46,8 @@ If there is no voltage drop we would then need 3.3/.010=330 ohms as safety stand
 
 ## Schematic and circuit design.
 
+https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20(4).png
+https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20(6).png
 
 
 
@@ -55,9 +57,8 @@ If there is no voltage drop we would then need 3.3/.010=330 ohms as safety stand
 
 ## Software details
 
-Software1.PNG
-Software2.PNG
-Software3.PNG
+https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/main.cpp.pdf
+
 
 
 **ledPin(8)** is the output
@@ -76,13 +77,13 @@ ie; **frequency**=500/**xtime**
 
 ## Output:
 
-![](C:\Users\VISHNU\OneDrive\Pictures\Screenshots\2020-05-09 (2).png)
+https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-09%20(2).png
 
 
 
 ## Serial plotter output:
 
-![](C:\Users\VISHNU\OneDrive\Pictures\Screenshots\2020-05-10 (12).png)
+https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20(12).png
 
 
 

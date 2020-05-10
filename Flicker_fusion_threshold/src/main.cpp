@@ -38,6 +38,15 @@ void setup()
 
 void loop()
 {
+ 
+  //Serial plotter code.
+  /*Serial.println(ledState);
+  ledState=!ledState;
+
+  digitalWrite(ledPin, ledState);
+  Serial.println(" ");
+  Serial.println(ledState);*/
+
  Timeperiod = analogRead(PotPin); // read the value from the
  // potentiometer
  unsigned long currentMillis = millis(); // current value stored
@@ -53,7 +62,7 @@ if (currentMillis - previousMillis >xtime)
  ledState = LOW;
  digitalWrite(ledPin, ledState); // set the LED with the ledState
  frequency = (500/xtime); // store the value of led blink freqency
- //frequency mutiplied to 500 times
+ 
 }
 }
 

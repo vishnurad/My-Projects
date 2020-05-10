@@ -48,9 +48,6 @@ If there is no voltage drop we would then need 3.3/.010=330 ohms as safety stand
 
 
 
-![2020-05-10 (4)](C:\Users\VISHNU\Documents\My-Projects\Flicker_fusion_threshold\2020-05-10 (4).png)
-
-![2020-05-10 (6)](C:\Users\VISHNU\Documents\My-Projects\Flicker_fusion_threshold\2020-05-10 (6).png)
 
 
 
@@ -58,12 +55,9 @@ If there is no voltage drop we would then need 3.3/.010=330 ohms as safety stand
 
 ## Software details
 
-![](C:\Users\VISHNU\Documents\My-Projects\Flicker_fusion_threshold\Software1.PNG)
-
-![Software2](C:\Users\VISHNU\Documents\My-Projects\Flicker_fusion_threshold\Software2.PNG)
-
-![Software3](C:\Users\VISHNU\Documents\My-Projects\Flicker_fusion_threshold\Software3.PNG)
-
+Software1.PNG
+Software2.PNG
+Software3.PNG
 
 
 **ledPin(8)** is the output

@@ -47,7 +47,7 @@ If there is no voltage drop we would then need 3.3/.010=330 ohms as safety stand
 ## Schematic and circuit design.
  ![enter image description here](https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20%284%29.png)
 
- https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20(6).png
+![enter image description here](https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20%286%29.png)
 
 
 
@@ -77,14 +77,12 @@ ie; **frequency**=500/**xtime**
 
 ## Output:
 
-https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-09%20(2).png
+![enter image description here](https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-09%20%282%29.png)
 
 
 
 ## Serial plotter output:
-
-https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20(12).png
-
+![enter image description here](https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20%2812%29.png)
 
 
 Period of wave =(time taken to complete one cycle)= 4*2=8ms (as original **Timeperiod** is half of original time period )

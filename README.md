@@ -47,6 +47,23 @@ If there is no voltage drop we would then need 3.3/.010=330 ohms as safety stand
 ## Schematic and circuit design.
 
 ![enter image description here]https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20(4).png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![enter image description here]https://github.com/vishnurad/My-Projects/blob/Project_1_Flicker_fusion_threshold/2020-05-10%20(6).png
 
 
